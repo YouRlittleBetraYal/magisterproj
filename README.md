@@ -13,8 +13,7 @@
 - **Python**: 3.8.5
 - **IDE**: Visual Studio Code
 - **IDE**: Copeliasim Edu
-Для попередньо скомпільованих .exe:
-- **Windows 10**
+- **Для попередньо скомпільованих .exe**: Windows 10
 
 ## Структура проєкту
 
